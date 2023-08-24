@@ -6,6 +6,7 @@ export default function Home() {
       <Image
         src="/next-pwa/logo.png"
         alt="GrocerBe Logo"
+        className='animate-[bounce_1.8s_ease-in-out_infinite]'
         width={100}
         height={24}
         priority
