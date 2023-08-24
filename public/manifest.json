@@ -2,8 +2,8 @@
     "theme_color": "#f69435",
     "background_color": "#f69435",
     "display": "standalone",
-    "scope": "/",
-    "start_url": "/",
+    "scope": "/next-pwa",
+    "start_url": "/next-pwa",
     "name": "My Next Pwa",
     "short_name": "NxtPwa",
     "icons": [

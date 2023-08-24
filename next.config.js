@@ -5,7 +5,7 @@ const nextConfig = {
     basePath: '/next-pwa',
     output: 'export',
     ...withPwa({
-        dest: 'public',
+        dest: '/next-pwa/public',
         register: true,
         skipWaiting: true,
     })
