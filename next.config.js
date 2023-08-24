@@ -2,6 +2,7 @@
 const withPwa = require('next-pwa')
 
 const nextConfig = {
+    basePath: '/next-pwa',
     output: 'export',
     ...withPwa({
         dest: 'public',
